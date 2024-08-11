@@ -1,0 +1,4 @@
+Healthy
+Blight
+Gray Leaf Spot
+Common Rust
